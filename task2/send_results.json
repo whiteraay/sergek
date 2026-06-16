@@ -1,0 +1,20 @@
+[
+  {
+    "row": 2,
+    "phone": "+77053568245",
+    "status": "failed",
+    "error": "Locator.wait_for: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(\"[data-testid=\\\"conversation-compose-box-input\\\"]\") to be visible\n"
+  },
+  {
+    "row": 3,
+    "phone": "+77053568245",
+    "status": "failed",
+    "error": "Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"[data-testid=\\\"send\\\"]\")\n"
+  },
+  {
+    "row": 4,
+    "phone": "",
+    "status": "skipped",
+    "error": "invalid format: '9XXXXXXXXX'"
+  }
+]

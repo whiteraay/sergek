@@ -1,0 +1,5 @@
+2026-06-16 05:55:45,509 [INFO] Loaded 722 records from parkings_almaty_clean.csv
+2026-06-16 05:55:45,510 [WARNING] 722 rows skipped due to missing/invalid phone numbers
+2026-06-16 05:55:45,510 [INFO] DRY-RUN: logging 722 messages (nothing will be sent)
+2026-06-16 05:55:45,511 [INFO] Dry-run done: 0 logged, 722 skipped → dry_run_messages.log
+2026-06-16 06:01:24,282 [ERROR] File not found: contacts.csv

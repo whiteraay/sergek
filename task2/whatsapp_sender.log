@@ -1,0 +1,18 @@
+2026-06-16 06:03:06,910 [INFO] Loaded 3 records from contacts.csv
+2026-06-16 06:03:06,910 [WARNING] LIVE MODE ACTIVE — messages will be sent to real numbers. Limit: 2
+2026-06-16 06:03:06,938 [INFO] LIVE mode: sending 2 message(s)
+2026-06-16 06:03:10,020 [INFO] Opening WhatsApp Web...
+2026-06-16 06:03:11,710 [INFO] Waiting for WhatsApp Web to load (scan QR if prompted)...
+2026-06-16 06:04:27,300 [INFO] WhatsApp Web loaded successfully.
+2026-06-16 06:04:27,305 [INFO] Opening chat with +77053568245...
+2026-06-16 06:04:46,982 [ERROR] ❌ Failed to send to +77053568245: Locator.wait_for: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"conversation-compose-box-input\"]") to be visible
+
+2026-06-16 06:04:49,988 [INFO] Opening chat with +77053568245...
+2026-06-16 06:05:28,538 [ERROR] ❌ Failed to send to +77053568245: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"send\"]")
+
+2026-06-16 06:05:31,685 [INFO] Live send complete: 0 sent, 2 failed
+2026-06-16 06:05:31,686 [INFO] Results saved → send_results.json
